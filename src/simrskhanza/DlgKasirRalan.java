@@ -7895,6 +7895,7 @@ private void MnDataRalanActionPerformed(java.awt.event.ActionEvent evt) {//GEN-F
                                                           rs.getString("alergi"));
                             }
                         } catch (Exception e) {
+//                            e
                             System.out.println("Notif : "+e);
                         } finally{
                             if(rs!=null){
