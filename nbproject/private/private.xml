@@ -22,11 +22,12 @@
         <group>
             <file>file:/D:/DATA_DEV/JAVA/SIMRS/SIMRS-Khanza/src/inventory/DlgResepObat.java</file>
             <file>file:/D:/DATA_DEV/JAVA/SIMRS/SIMRS-Khanza/src/simrskhanza/DlgReg.java</file>
-            <file>file:/D:/DATA_DEV/JAVA/SIMRS/SIMRS-Khanza/src/keuangan/DlgBilingRalan.java</file>
             <file>file:/D:/DATA_DEV/JAVA/SIMRS/SIMRS-Khanza/src/inventory/DlgCariObat.java</file>
             <file>file:/D:/DATA_DEV/JAVA/SIMRS/SIMRS-Khanza/src/bridging/BPJSDataSEP.java</file>
-            <file>file:/D:/DATA_DEV/JAVA/SIMRS/SIMRS-Khanza/src/fungsi/WarnaTableKasirRalan.java</file>
+            <file>file:/D:/DATA_DEV/JAVA/SIMRS/SIMRS-Khanza/src/simrskhanza/DlgKasirRalan.java</file>
             <file>file:/D:/DATA_DEV/JAVA/SIMRS/SIMRS-Khanza/src/simrskhanza/frmUtama.java</file>
+            <file>file:/D:/DATA_DEV/JAVA/SIMRS/SIMRS-Khanza/src/simrskhanza/DlgPasien.java</file>
+            <file>file:/D:/DATA_DEV/JAVA/SIMRS/SIMRS-Khanza/src/simrskhanza/DlgRawatJalan.java</file>
             <file>file:/D:/DATA_DEV/JAVA/SIMRS/SIMRS-Khanza/src/rekammedis/RMPenilaianAwalMedisRalanDewasa.java</file>
         </group>
     </open-files>
